@@ -78,3 +78,8 @@ h3 {
 div {
     border: 15px solid red;
 }
+#blog {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
