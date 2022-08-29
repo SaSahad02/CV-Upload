@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: xx-large;
+    font-size: 40px;
 }
 #cvname {
     padding-left: 300px;
@@ -43,7 +43,7 @@ h3 {
     text-align: center;
     font-weight: 900;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20;
+    font-size: 25px;
 }
 .ski {
     padding-left: 300px;
